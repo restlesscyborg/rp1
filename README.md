@@ -1,2 +1,5 @@
 # rp1
-first github project
+
+## try 1 at github
+
+This is my first time experimenting with github 
